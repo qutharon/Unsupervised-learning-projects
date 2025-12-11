@@ -1,0 +1,7 @@
+File	Description
+mao-y-data.txt	Data extracted from the SPSS .sav file, survey questions with NA values are excluded
+map-y-paper.pdf	The text content of the paper
+mao-y-python.ipynb	Python Jupyter notebook
+mao-y-python.py	Python code in text
+mao-y-python.html	The HTML output of python code
+mao-y-PCA.R	R script for PCA
